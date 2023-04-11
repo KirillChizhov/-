@@ -12,14 +12,14 @@ namespace ConsoleApp1
         {
             int age = 18;
             double pi = 3.14;
-            bool tr = true;
-            float exp = 2.72f;
-            short check = -100;
-            ushort payments = 100;
-            long day = -7;
-            ulong week = 7;
-            byte s = 3;
-            sbyte sd = -100;         
+            bool could = true;
+            float expanenta = 2.72f;
+            short degrees = -10;
+            ushort friends = 5;
+            long hoursinaday = 24;
+            ulong daysinaweek = 7;
+            char letter = 'd';
+            string username = "Kirill";         
         }
     }
 }
