@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             int age = 18;
             double pi = 3.14;
-            bool invited = true;
+            bool answer = true;
             float expanenta = 2.72f;
             short degrees = -10;
             ushort friends = 5;
