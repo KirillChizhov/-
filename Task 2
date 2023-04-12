@@ -12,12 +12,12 @@ namespace ConsoleApp1
         {
             int age = 18;
             double pi = 3.14;
-            bool could = true;
+            bool invited = true;
             float expanenta = 2.72f;
             short degrees = -10;
             ushort friends = 5;
-            long hoursinaday = 24;
-            ulong daysinaweek = 7;
+            long hoursInDay = 24;
+            ulong daysInWeek = 7;
             char letter = 'd';
             string username = "Kirill";         
         }
